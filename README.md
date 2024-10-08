@@ -2,6 +2,7 @@
 This is a simple Bus Reservation System built in Java without using any databases (JDBC). The system allows users to book seats on a bus, check bus availability, and manage bookings.
 
 Key Features:
+
 Bus Information: The system displays bus details such as bus number, whether the bus is air-conditioned (AC), total capacity, and available seats.
 
 Booking System: Users can enter their name, select a bus by its number, and choose a travel date to make a booking.
