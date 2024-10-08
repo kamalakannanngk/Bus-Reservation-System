@@ -1,5 +1,4 @@
 # Bus-Reservation-System
-Bus Reservation System (Java)
 This is a simple Bus Reservation System built in Java without using any databases (JDBC). The system allows users to book seats on a bus, check bus availability, and manage bookings.
 
 Key Features:
